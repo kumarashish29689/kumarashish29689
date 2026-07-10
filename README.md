@@ -16,8 +16,7 @@ const ashish = {
 
   title: "CS Student",
   stack: ["Java"],
-  launchedProjects: ["kumarashish29689"],
-  certifications: [],
+  certifications: [Java Essential from Infosys springboard],
   status: "Learning and building 🚀",
   openTo: "Collaborations & feedback"
 };
@@ -33,7 +32,7 @@ My personal GitHub profile README.
 
 | Layer    | Technology |
 |----------|------------|
-| Language | Java       |
+| Language | Java  HTML  CSS  JAVASCRIPT     |
 
 🔗 **Code:** [github.com/kumarashish29689/kumarashish29689](https://github.com/kumarashish29689/kumarashish29689)
 
